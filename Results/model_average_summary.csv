@@ -1,0 +1,4 @@
+Model,Avg_AP_50_95,Avg_AP_50,Avg_F1,Avg_Recall,Avg_Precision
+Faster R-CNN,0.293,0.46,0.451,0.593,0.37
+SSD MobileNet,0.184,0.277,0.408,0.301,0.638
+YOLOv8,0.278,0.372,0.526,0.431,0.693
